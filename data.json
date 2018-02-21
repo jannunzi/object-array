@@ -1,0 +1,490 @@
+{
+  "acsas8hf4emqub0d22s6aml2_2efa7f0": {
+    "30d68dc7-78ec-4652-be37-f678c1366823": {
+      "skillName": "Problem and Solution",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 3,
+        "correct": 2
+      }
+    },
+    "950823b9-c26e-4d25-ab5d-b467513c50e4": {
+      "skillName": "Inferences",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 3,
+        "correct": 2
+      }
+    },
+    "89f7f1d7-3e78-4cbf-912a-d4ac6b01fc51": {
+      "skillName": "Compare and Contrast",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 2,
+        "correct": 1
+      }
+    },
+    "9117ec43-d404-4128-bf90-6fb4587e25c4": {
+      "skillName": "Inferences",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 2,
+        "correct": 1
+      }
+    },
+    "9aae6274-c73b-467f-81b5-867038310933": {
+      "skillName": "Identify Central Ideas & Details",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 5,
+        "correct": 4
+      }
+    },
+    "b6a7b3bf-db2d-446b-a743-7d264105a97b": {
+      "skillName": "Inferences",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 3,
+        "correct": 2
+      }
+    },
+    "8789338d-2c74-4cef-a68e-791f9654d832": {
+      "skillName": "Summarize",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 3,
+        "correct": 2
+      },
+      "wa": {
+        "correct": 0,
+        "total": 4
+      }
+    },
+    "b5b64cd0-2940-4837-a37b-bc4816e45fe9": {
+      "skillName": "Cause and Effect",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 3,
+        "correct": 3
+      }
+    },
+    "09165cf2-cd59-4e56-8ccf-8cf7565f02e4": {
+      "skillName": "Inferences",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 2,
+        "correct": 2
+      }
+    },
+    "062d190f-0eb6-4d62-bc48-f85441a3b1a7": {
+      "skillName": "Identify Central Idea / Main Idea",
+      "strategyName": "Reading",
+      "wa": {
+        "correct": 0,
+        "total": 5
+      }
+    },
+    "852e9307-0832-45c3-8083-502cf7dde1ce": {
+      "skillName": "Prefixes",
+      "strategyName": "Language",
+      "wa": {
+        "correct": 0,
+        "total": 2
+      }
+    },
+    "0a08a18f-6803-47ff-b00b-5cf7157d1227": {
+      "skillName": "Words in Context / Context Clues",
+      "strategyName": "Language",
+      "wa": {
+        "correct": 0,
+        "total": 3
+      }
+    }
+  },
+  "8dsc5v0kqh2uqsmuqd3hqo7a_2efa7f0": {
+    "8789338d-2c74-4cef-a68e-791f9654d832": {
+      "skillName": "Summarize",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 9,
+        "correct": 8
+      },
+      "wa": {
+        "correct": 0,
+        "total": 4
+      }
+    },
+    "b5b64cd0-2940-4837-a37b-bc4816e45fe9": {
+      "skillName": "Cause and Effect",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 9,
+        "correct": 8
+      }
+    },
+    "09165cf2-cd59-4e56-8ccf-8cf7565f02e4": {
+      "skillName": "Inferences",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 6,
+        "correct": 6
+      }
+    },
+    "9aae6274-c73b-467f-81b5-867038310933": {
+      "skillName": "Identify Central Ideas & Details",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 6,
+        "correct": 4
+      }
+    },
+    "b6a7b3bf-db2d-446b-a743-7d264105a97b": {
+      "skillName": "Inferences",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 5,
+        "correct": 3
+      }
+    },
+    "062d190f-0eb6-4d62-bc48-f85441a3b1a7": {
+      "skillName": "Identify Central Idea / Main Idea",
+      "strategyName": "Reading",
+      "wa": {
+        "correct": 0,
+        "total": 5
+      }
+    },
+    "852e9307-0832-45c3-8083-502cf7dde1ce": {
+      "skillName": "Prefixes",
+      "strategyName": "Language",
+      "wa": {
+        "correct": 0,
+        "total": 2
+      }
+    },
+    "0a08a18f-6803-47ff-b00b-5cf7157d1227": {
+      "skillName": "Words in Context / Context Clues",
+      "strategyName": "Language",
+      "wa": {
+        "correct": 0,
+        "total": 3
+      }
+    }
+  },
+  "gmv1ft4nhdj5hhib8i384ki5_2efa7f0": {
+    "9aae6274-c73b-467f-81b5-867038310933": {
+      "skillName": "Identify Central Ideas & Details",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 4,
+        "correct": 1
+      }
+    },
+    "b6a7b3bf-db2d-446b-a743-7d264105a97b": {
+      "skillName": "Inferences",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 2,
+        "correct": 0
+      }
+    },
+    "b5b64cd0-2940-4837-a37b-bc4816e45fe9": {
+      "skillName": "Cause and Effect",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 6,
+        "correct": 3
+      }
+    },
+    "09165cf2-cd59-4e56-8ccf-8cf7565f02e4": {
+      "skillName": "Inferences",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 4,
+        "correct": 1
+      }
+    },
+    "8789338d-2c74-4cef-a68e-791f9654d832": {
+      "skillName": "Summarize",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 6,
+        "correct": 1
+      }
+    }
+  },
+  "gfa80kqsoqfuep8455572d6r_2efa7f0": {
+    "8789338d-2c74-4cef-a68e-791f9654d832": {
+      "skillName": "Summarize",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 4,
+        "correct": 2
+      },
+      "wa": {
+        "correct": 0,
+        "total": 4
+      }
+    },
+    "9aae6274-c73b-467f-81b5-867038310933": {
+      "skillName": "Identify Central Ideas & Details",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 4,
+        "correct": 2
+      }
+    },
+    "df35a6bd-7258-4ec5-8b35-e7d5b490b61f": {
+      "skillName": "Sequence / Process",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 3,
+        "correct": 2
+      }
+    },
+    "30d68dc7-78ec-4652-be37-f678c1366823": {
+      "skillName": "Problem and Solution",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 1,
+        "correct": 0
+      }
+    },
+    "950823b9-c26e-4d25-ab5d-b467513c50e4": {
+      "skillName": "Inferences",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 1,
+        "correct": 0
+      }
+    },
+    "b6a7b3bf-db2d-446b-a743-7d264105a97b": {
+      "skillName": "Inferences",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 2,
+        "correct": 1
+      }
+    },
+    "291c1a93-501d-4082-b282-7d18c93d05e9": {
+      "skillName": "Inferences",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 1,
+        "correct": 1
+      }
+    },
+    "b5b64cd0-2940-4837-a37b-bc4816e45fe9": {
+      "skillName": "Cause and Effect",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 3,
+        "correct": 3
+      }
+    },
+    "09165cf2-cd59-4e56-8ccf-8cf7565f02e4": {
+      "skillName": "Inferences",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 2,
+        "correct": 2
+      }
+    },
+    "062d190f-0eb6-4d62-bc48-f85441a3b1a7": {
+      "skillName": "Identify Central Idea / Main Idea",
+      "strategyName": "Reading",
+      "wa": {
+        "correct": 0,
+        "total": 5
+      }
+    },
+    "852e9307-0832-45c3-8083-502cf7dde1ce": {
+      "skillName": "Prefixes",
+      "strategyName": "Language",
+      "wa": {
+        "correct": 0,
+        "total": 2
+      }
+    },
+    "0a08a18f-6803-47ff-b00b-5cf7157d1227": {
+      "skillName": "Words in Context / Context Clues",
+      "strategyName": "Language",
+      "wa": {
+        "correct": 0,
+        "total": 3
+      }
+    }
+  },
+  "68vkn15j5pn3mj14dvchrilb_2efa7f0": {
+    "8789338d-2c74-4cef-a68e-791f9654d832": {
+      "skillName": "Summarize",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 1,
+        "correct": 0
+      }
+    },
+    "9aae6274-c73b-467f-81b5-867038310933": {
+      "skillName": "Identify Central Ideas & Details",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 2,
+        "correct": 1
+      }
+    },
+    "b6a7b3bf-db2d-446b-a743-7d264105a97b": {
+      "skillName": "Inferences",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 1,
+        "correct": 0
+      }
+    },
+    "b5b64cd0-2940-4837-a37b-bc4816e45fe9": {
+      "skillName": "Cause and Effect",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 3,
+        "correct": 2
+      }
+    },
+    "09165cf2-cd59-4e56-8ccf-8cf7565f02e4": {
+      "skillName": "Inferences",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 3,
+        "correct": 2
+      }
+    }
+  },
+  "du09teejjt1fvab16q8onq1i_2efa7f0": {
+    "8789338d-2c74-4cef-a68e-791f9654d832": {
+      "skillName": "Summarize",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 1,
+        "correct": 0
+      },
+      "wa": {
+        "correct": 0,
+        "total": 4
+      }
+    },
+    "9aae6274-c73b-467f-81b5-867038310933": {
+      "skillName": "Identify Central Ideas & Details",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 2,
+        "correct": 1
+      }
+    },
+    "b6a7b3bf-db2d-446b-a743-7d264105a97b": {
+      "skillName": "Inferences",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 1,
+        "correct": 0
+      }
+    },
+    "b5b64cd0-2940-4837-a37b-bc4816e45fe9": {
+      "skillName": "Cause and Effect",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 3,
+        "correct": 2
+      }
+    },
+    "09165cf2-cd59-4e56-8ccf-8cf7565f02e4": {
+      "skillName": "Inferences",
+      "strategyName": "Text Structure",
+      "r180": {
+        "total": 3,
+        "correct": 2
+      }
+    },
+    "062d190f-0eb6-4d62-bc48-f85441a3b1a7": {
+      "skillName": "Identify Central Idea / Main Idea",
+      "strategyName": "Reading",
+      "wa": {
+        "correct": 0,
+        "total": 5
+      }
+    },
+    "852e9307-0832-45c3-8083-502cf7dde1ce": {
+      "skillName": "Prefixes",
+      "strategyName": "Language",
+      "wa": {
+        "correct": 0,
+        "total": 2
+      }
+    },
+    "0a08a18f-6803-47ff-b00b-5cf7157d1227": {
+      "skillName": "Words in Context / Context Clues",
+      "strategyName": "Language",
+      "wa": {
+        "correct": 0,
+        "total": 3
+      }
+    }
+  },
+  "bulrpf8vlpd9cvaaaglmt5kk_2efa7f0": {
+    "8789338d-2c74-4cef-a68e-791f9654d832": {
+      "skillName": "Summarize",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 3,
+        "correct": 2
+      }
+    },
+    "9aae6274-c73b-467f-81b5-867038310933": {
+      "skillName": "Identify Central Ideas & Details",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 2,
+        "correct": 2
+      }
+    },
+    "b6a7b3bf-db2d-446b-a743-7d264105a97b": {
+      "skillName": "Inferences",
+      "strategyName": "Key Ideas & Details",
+      "r180": {
+        "total": 1,
+        "correct": 1
+      }
+    }
+  },
+  "q03kiocl65to3l50o6kg8ahb_2efa7f0": {
+    "062d190f-0eb6-4d62-bc48-f85441a3b1a7": {
+      "skillName": "Identify Central Idea / Main Idea",
+      "strategyName": "Reading",
+      "wa": {
+        "correct": 0,
+        "total": 4
+      }
+    },
+    "852e9307-0832-45c3-8083-502cf7dde1ce": {
+      "skillName": "Prefixes",
+      "strategyName": "Language",
+      "wa": {
+        "correct": 0,
+        "total": 2
+      }
+    },
+    "8789338d-2c74-4cef-a68e-791f9654d832": {
+      "skillName": "Summarize",
+      "strategyName": "Reading",
+      "wa": {
+        "correct": 0,
+        "total": 5
+      }
+    },
+    "0a08a18f-6803-47ff-b00b-5cf7157d1227": {
+      "skillName": "Words in Context / Context Clues",
+      "strategyName": "Language",
+      "wa": {
+        "correct": 0,
+        "total": 3
+      }
+    }
+  }
+}
