@@ -4,6 +4,7 @@ var studentsOut = {
 	wa: {}
 };
 for(var studentId in studentsIn) {
+	// studentsIn[studentId].name = studentId;
 	var student = studentsIn[studentId];
 	// console.log(studentId);
 	for(var skillId in student) {
@@ -16,14 +17,15 @@ for(var studentId in studentsIn) {
 		}
 	}
 }
-var r180Model = objecToArray('r180', studentsOut);
-// console.log(JSON.stringify(studentsOut));
+// var r180Model = objectToArray('r180', studentsOut);
+// console.log(JSON.stringify(studentsIn));
+console.log(JSON.stringify(studentsOut['r180']));
 // visit(studentsOut);
 
 function objectToArray(product, data) {
-	var r180Students = data[product];
-	for(var studentId in r180Students) {
-		var student = r180Students[studentId];
+	var students = data[product];
+	for(var studentId in students) {
+		var student = students[studentId];
 		
 	}
 }
@@ -48,6 +50,7 @@ function transform(product, studentId, skillId) {
 	var studentIn    = studentsIn[studentId];
 	var skillIn      = studentIn[skillId];
 	var strategyName = skillIn.strategyName;
+	var skillName    = skillIn.skillName;
 
 	// if there is no student
 	var studentOut = studentsOut[product][studentId];
@@ -69,12 +72,12 @@ function transform(product, studentId, skillId) {
 			// children: []
 		};
 	}
-	var skillOut = studentsOut[product][studentId][strategyName][skillId];
+	var skillOut = studentsOut[product][studentId][strategyName][skillName];
 	if(!skillOut) {
 		// skillIn['label'] = skillIn.skillName;
 		// skillIn['value'] = skillIn[product].correct;
 		// skillIn['children'] = [];
-		studentsOut[product][studentId][strategyName][skillId] = skillIn;
+		studentsOut[product][studentId][strategyName][skillName] = skillIn;
 	}
 	// studentsOut[product][studentId][strategyName][skillId].value += skillIn[product].correct;
 }
